@@ -1,0 +1,6 @@
+{
+  "name": "SKT Billing",
+  "description": "GST-compliant enterprise billing, inventory, PDC management, and advanced accounting software built for Indian businesses, powered by SKT Billing architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
